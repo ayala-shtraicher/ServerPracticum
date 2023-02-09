@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PracticumProject.WebAPI.props" />
+</Project>
